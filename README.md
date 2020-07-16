@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 Currently working at [@TheWidlarzGroup](https://github.com/TheWidlarzGroup)
+- 🌱 Learning new stuff every day
+- 🔨 Developing my own ecommerce platform after hours
+- 📫 How to reach me: [https://danielgrychtol.com/](https://danielgrychtol.com/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ☕️ addict | 👪 F.R.I.E.N.D.S fan 🔥
+
+
 <!--
 **danielmark0116/danielmark0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
